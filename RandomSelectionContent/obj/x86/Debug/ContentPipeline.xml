@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Plant.png</Source>
+      <Name>Textures\Plant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\Plant.xnb</Output>
+      <Time>2012-11-17T17:28:31.9395615+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Start.jpg</Source>
+      <Name>Textures\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\Start.xnb</Output>
+      <Time>2013-01-13T14:09:07.1536+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CarnivoorM.png</Source>
+      <Name>Textures\CarnivoorM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\CarnivoorM.xnb</Output>
+      <Time>2013-02-12T10:47:26.0319108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CarnivoorV.png</Source>
+      <Name>Textures\CarnivoorV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\CarnivoorV.xnb</Output>
+      <Time>2013-02-12T10:47:26.0379108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HerbivoorM.png</Source>
+      <Name>Textures\HerbivoorM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\HerbivoorM.xnb</Output>
+      <Time>2013-02-12T10:55:06.5569108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HerbivoorV.png</Source>
+      <Name>Textures\HerbivoorV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\HerbivoorV.xnb</Output>
+      <Time>2013-02-12T10:55:06.5489108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Round.jpg</Source>
+      <Name>Textures\Round</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\Round.xnb</Output>
+      <Time>2013-04-21T13:50:04.6439354+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MainFont.spritefont</Source>
+      <Name>Textures\MainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\Textures\MainFont.xnb</Output>
+      <Time>2013-04-21T14:09:08.6629354+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelectionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelectionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\RandomSelection\RandomSelection\RandomSelection\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-06T09:31:23.533+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+Content\Textures\Plant.xnb
+Content\Textures\Start.xnb
+Content\Textures\CarnivoorM.xnb
+Content\Textures\CarnivoorV.xnb
+Content\Textures\HerbivoorM.xnb
+Content\Textures\HerbivoorV.xnb
+Content\Textures\Round.xnb
+Content\Textures\MainFont.xnb
